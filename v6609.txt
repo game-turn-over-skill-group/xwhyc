@@ -1,10 +1,10 @@
-[360 AdBlock Rule]
-title=xwhyc极速浏览器规则
-updated_time=2016.9.24
-author=xwhyc
-version=6609
+![360 AdBlock Rule]
+!title=xwhyc鏋侀�熸祻瑙堝櫒瑙勫垯
+!updated_time=2016.9.24
+!author=xwhyc
+!version=6609
 
-[Subscription filters]
+![Subscription filters]
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com|gome.com.cn|ad.alimama.com|www.alimama.com|189.cn|3songshu.com|pili.com.tw|chinahr.com
 @@|http://*&username=400gb&adsid=
 @@|http://*.com/adsafe
@@ -4576,7 +4576,7 @@ vccoo.com##.google-tg,.main-tg-area,.adsbygoogle
 5664.cn##DIV.web_idx_t,DIV.w960
 576tv.com##DIV.imgad.adw642,DIV[class^="imgad adt"]
 58.com##.bban,.fcj_leftfix
-591hx.com##div.banner,img[alt*="广告"]
+591hx.com##div.banner,img[alt*="鹿茫赂忙"]
 59imv.com##DIV[style^="width:"][style$="px;height:90px"]
 5imx.com###diy1,[width="166"],.ad3,.ad2
 5iyq.com,chi577.com##.top_l,.top_r,[class^="index_ad"],#pan1,#pan2,[style="margin-top:5px;overflow:hidden;"],.wp.a_t,.wp.a_h,.ad980
