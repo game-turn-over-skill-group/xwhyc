@@ -1,8 +1,8 @@
 ![360 AdBlock Rule]
-!title=xwhyc极速浏览器规则
-!updated_time=2016.9.24
-!author=xwhyc
-!version=6609
+!title:xwhyc极速浏览器规则
+!updated_time:2016.9.24
+!author:xwhyc
+!version:6609
 
 ![Subscription filters]
 @@|http://$domain=taobao.com|taobao.org|alipay.com|suning.com|51buy.com|ct10000.com|etao.com|hitao.com|paipai.com|code.google.com|yeepay.com|taoke.alimama.com|club.alimama.com|tenpay.com|tmall.com|tbcdn.cn|jd.com|jifen.qq.com|meishichina.com|vip.xunlei.com|lixian.xunlei.com|www.vmall.com|www.1688.com|www.mm111.net|www.fanxian.com|www.cmbchina.com|alibaba.com|meidebi.com|lifevc.com|gome.com.cn|ad.alimama.com|www.alimama.com|189.cn|3songshu.com|pili.com.tw|chinahr.com
